@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell basics
+Shell variables, init files and expansions
